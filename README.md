@@ -1,7 +1,7 @@
 #Starter Web Project
 
 this is a simple websiete project for showing how to use git an github together
-dding a line for rebasing example
+Adding a line for rebasing example, then more changes from my feature branch too.
 
 ##Introduction
 
