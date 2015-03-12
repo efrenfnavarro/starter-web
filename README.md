@@ -8,4 +8,8 @@ this is a simple websiete project for showing how to use git an github together
 
 ##Purpose
 
+this is a simple websiete project for showing how to use git an github together
+
 ##How To Contribute
+
+this is a simple websiete project for showing how to use git an github together
