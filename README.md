@@ -12,6 +12,7 @@ this is a simple websiete project for showing how to use git an github together
 
 ##How To Contribute
 
+please for this repository.
 this is a simple websiete project for showing how to use git an github together
 
 
