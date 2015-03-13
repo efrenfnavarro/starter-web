@@ -18,4 +18,4 @@ this is a simple websiete project for showing how to use git an github together
 
 
 ##COPYRIGHT
-	2014.git.training
+	2014.git.training. All right reserved.
